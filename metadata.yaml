@@ -1,0 +1,30 @@
+_repo: The-Unwritten-Literature-of-the-Hopi_15888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lockett, Hattie Greene
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '6361'
+    url: http://www.gutenberg.org/2009/agents/6361
+description: ''
+gutenberg_bookshelf:
+- Mythology
+- Native America
+gutenberg_issued: '2005-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Hopi Indians -- Folklore'
+- !lcsh 'Hopi Indians'
+title: The Unwritten Literature of the Hopi
+url: http://www.gutenberg.org/ebooks/15888
